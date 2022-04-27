@@ -11,6 +11,8 @@ body {
   line-height: 1.35em;
   text-align: left;
   text-shadow: 1px 0 2px #fff;
+  margin: 0;
+  padding: 0;
 }
 
 .logo {
