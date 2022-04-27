@@ -10,11 +10,16 @@ body {
 }
 
 .logo {
+  display: flex;
+  align-items: center;
   width: 100%;
   text-align: center;
   padding: 0 2%;
+  justify-content: center;
+  height: 100vh;
 }
 
-.logo svg {
+.logo img {
   max-width: 100%;
+  width: 80%;
 }
